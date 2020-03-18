@@ -19,7 +19,7 @@ for everyone in [the growing Kotlin community](https://kotlinlang.org/community/
 If you have any questions and want to participate in discussions, you are welcome to join the _#eap_ channel in [Kotlin Slack](https://app.slack.com/client/T09229ZC6/C0KLZSCHF). 
 In this channel, you can also get notifications about new EAP builds.
 
-**[Install EAP Plugin for IDEA or Android Studio](install-eap-plugin.html)**
+**[Install the Kotlin EAP Plugin for IDEA or Android Studio](install-eap-plugin.html)**
 
 > By participating in the EAP, you expressly acknowledge that the EAP version may not be reliable, may not work as intended, and may contain errors.
 >
@@ -46,7 +46,7 @@ check [our instructions on how to configure your build to support this version](
             <ul>
                 <li><a href="https://blog.jetbrains.com/kotlin/?p=7836&preview=true#new-type-inference">More powerful type inference algorithm</a></li>
                 <li><a href="https://blog.jetbrains.com/kotlin/2019/12/what-to-expect-in-kotlin-1-4-and-beyond/#sam-conversions">SAM conversions for Kotlin classes</a></li>
-                <li>Support for <a href="https://blog.jetbrains.com/kotlin/?p=7836&preview=true#hierarchical-project-structure">hierarchical project structure</a></li>
+                <li>Support for <a href="https://blog.jetbrains.com/kotlin/?p=7836&preview=true#hierarchical-project-structure">hierarchical project structures</a></li>
                 <li>New backend for <a href="https://blog.jetbrains.com/kotlin/?p=7836&preview=true#kotlin-js">Kotlin/JS</a> that brings major improvements to the resulting artifacts</li>
                 <li>And many other improvements</li>
             </ul>
