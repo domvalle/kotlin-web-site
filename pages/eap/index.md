@@ -38,15 +38,14 @@ check [our instructions on how to configure your build to support this version](
         <th>kotlinx library versions</th>
     </tr>
     <tr>
-        <td><strong>1.4-M1-eap-93</strong>
-            <p> Released: <strong>..., 2020</strong></p>
+        <td><strong>1.4-M1-release-99</strong>
+            <p> Released: <strong>March 2020</strong></p>
             <p><a href="https://github.com/JetBrains/kotlin/blob/1.4-M1/ChangeLog.md">Change log</a></p>
         </td>
         <td>
             <ul>
                 <li><a href="https://blog.jetbrains.com/kotlin/?p=7836&preview=true#new-type-inference">More powerful type inference algorithm</a></li>
                 <li><a href="https://blog.jetbrains.com/kotlin/2019/12/what-to-expect-in-kotlin-1-4-and-beyond/#sam-conversions">SAM conversions for Kotlin classes</a></li>
-                <li>Support for <a href="https://blog.jetbrains.com/kotlin/?p=7836&preview=true#hierarchical-project-structure">hierarchical project structures</a></li>
                 <li>New backend for <a href="https://blog.jetbrains.com/kotlin/?p=7836&preview=true#kotlin-js">Kotlin/JS</a> that brings major improvements to the resulting artifacts</li>
                 <li>And many other improvements</li>
             </ul>
@@ -54,10 +53,10 @@ check [our instructions on how to configure your build to support this version](
          </td>
         <td>
             <ul>
-                <li><strong>kotlinx.serialization</strong>—<a href="https://bintray.com/kotlin/kotlinx/kotlinx.serialization.runtime/0.20.0-1.4-M1-eap-93-01">0.20.0-1.4-M1-eap-93-01</a></li>
-                <li><strong>kotlinx.coroutines</strong>—<a href="https://bintray.com/kotlin/kotlinx/kotlinx.coroutines/1.3.4-1.4-M1-eap-93-2">1.3.4-1.4-M1-eap-93-2</a></li>
-                <li><strong>kotlinx.atomicfu</strong>—<a href="https://bintray.com/kotlin/kotlinx/kotlinx.atomicfu/0.14.2-1.4-M1-eap-93-2">0.14.2-1.4-M1-eap-93-2</a></li>          
-                <li><strong>ktor</strong>—<a href="https://bintray.com/kotlin/ktor/ktor/1.3.2-1.4-M1-eap-93-1">1.3.2-1.04-M1-eap-93-1</a></li>
+                <li><strong>kotlinx.serialization</strong>—<a href="https://bintray.com/kotlin/kotlinx/kotlinx.serialization.runtime/0.20.0-1.4-M1-release-99">0.20.0-1.4-M1-release-99</a></li>
+                <li><strong>kotlinx.coroutines</strong>—<a href="https://bintray.com/kotlin/kotlinx/kotlinx.coroutines/1.3.5-1.4-M1-release-99">1.3.5-1.4-M1-release-99</a></li>
+                <li><strong>kotlinx.atomicfu</strong>—<a href="https://bintray.com/kotlin/kotlinx/kotlinx.atomicfu/0.14.2-1.4-M1-release-99">0.14.2-1.4-M1-release-99</a></li>          
+                <li><strong>ktor</strong>—<a href="https://bintray.com/kotlin/ktor/ktor/1.3.2-1.4-M1-release-99">1.3.2-1.4-M1-release-99</a></li>
             </ul>
         </td>
     </tr>
